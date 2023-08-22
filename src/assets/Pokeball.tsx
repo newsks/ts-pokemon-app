@@ -1,5 +1,6 @@
+import { ClassNameProps } from "../types/ClassNameProps";
 
-export const Pokeball = ({ className: CN = '' }) => (
+export const Pokeball = ({ className: CN = '' }:ClassNameProps) => (
    <svg
       viewBox="0 0 208 208"
       fill="currentColor"
