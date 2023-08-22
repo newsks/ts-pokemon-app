@@ -1,3 +1,3 @@
-# react-poke-app
+# ts-pokemon-app
 
-React 로 진행한 Pokemon app입니다. 2023.08.21
+typescript 로 변환한 포켓몬앱입니다 (23.08.22)
